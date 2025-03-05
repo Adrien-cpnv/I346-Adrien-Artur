@@ -1,6 +1,6 @@
 Lister tout les VPCs
 
-$ aws ec2 describe-vpcs --profile devopsteam07 --region eu-north-1 --output table
+$ aws ec2 describe-vpcs --profile devopsteam07 --region eu-centrale-1 --output table
 
 
 Output :
